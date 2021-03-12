@@ -1,5 +1,7 @@
 //-----
-//un callback es una función que se pasa como parametro a otra función
+//un callback es una función que recibe como parámetro otra función
+//Una función que recibe otra función como parámetro se le denomina 
+//función de orden superior (higher-order function).
 //-----
 //creando una función que recibe una función como parametro
 //función suma
